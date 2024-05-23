@@ -1,0 +1,30 @@
+name: Validate Bracket Submission
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '*-submission.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install jsonschema
+
+      - name: Validate bracket
+        run: |
+          for file in $(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '\-submission\.json$'); do
+            python validate_bracket.py $file || exit 1
+          done
