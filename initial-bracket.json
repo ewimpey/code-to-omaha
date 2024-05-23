@@ -1,0 +1,38 @@
+{
+    "regionals": {
+      "regional1": {"team1": "Kentucky", "team2": "UConn", "team3": "Virginia Tech", "team4": "North Dakota State", "winner": "", "runner_up": ""},
+      "regional2": {"team1": "UNC", "team2": "UNC Wilmington", "team3": "UNC Greensboro", "team4": "Fairfield", "winner": "", "runner_up": ""},
+      "regional3": {"team1": "Tennessee", "team2": "Louisiana Tech", "team3": "Indiana", "team4": "Wright State", "winner": "", "runner_up": ""},
+      "regional4": {"team1": "Texas A&M", "team2": "Louisiana", "team3": "TCU", "team4": "Army", "winner": "", "runner_up": ""},
+      "regional5": {"team1": "Arkansas", "team2": "Nebraska", "team3": "Kansas State", "team4": "Saint Louis", "winner": "", "runner_up": ""},
+      "regional6": {"team1": "Clemson", "team2": "San Diego", "team3": "James Madison", "team4": "Austin Peay State", "winner": "", "runner_up": ""},
+      "regional7": {"team1": "Florida State", "team2": "Alabama", "team3": "UCF", "team4": "Florida A&M", "winner": "", "runner_up": ""},
+      "regional8": {"team1": "Oklahoma", "team2": "Dallas Baptist", "team3": "Northeastern", "team4": "Arkansas-Little Rock", "winner": "", "runner_up": ""},
+      "regional9": {"team1": "UC Santa Barbara", "team2": "Arizona", "team3": "South Carolina", "team4": "Fresno State", "winner": "", "runner_up": ""},
+      "regional10": {"team1": "Oklahoma State", "team2": "Mississippi State", "team3": "Oregon", "team4": "Lamar", "winner": "", "runner_up": ""},
+      "regional11": {"team1": "Virginia", "team2": "West Virginia", "team3": "Vanderbilt", "team4": "Columbia", "winner": "", "runner_up": ""},
+      "regional12": {"team1": "Oregon State", "team2": "UC Irvine", "team3": "Xavier", "team4": "Grand Canyon", "winner": "", "runner_up": ""},
+      "regional13": {"team1": "Indiana State", "team2": "NC State", "team3": "Cincinnati", "team4": "Bowling Green State", "winner": "", "runner_up": ""},
+      "regional14": {"team1": "East Carolina", "team2": "Duke", "team3": "Coastal Carolina", "team4": "High Point", "winner": "", "runner_up": ""},
+      "regional15": {"team1": "Georgia", "team2": "Southern Miss", "team3": "Georgia Tech", "team4": "Bryant", "winner": "", "runner_up": ""},
+      "regional16": {"team1": "Wake Forest", "team2": "Texas", "team3": "Troy", "team4": "Sacred Heart", "winner": "", "runner_up": ""}
+    },
+    "supers": {
+      "super1": {"team1": "", "team2": "", "winner": ""},
+      "super2": {"team1": "", "team2": "", "winner": ""},
+      "super3": {"team1": "", "team2": "", "winner": ""},
+      "super4": {"team1": "", "team2": "", "winner": ""},
+      "super5": {"team1": "", "team2": "", "winner": ""},
+      "super6": {"team1": "", "team2": "", "winner": ""},
+      "super7": {"team1": "", "team2": "", "winner": ""},
+      "super8": {"team1": "", "team2": "", "winner": ""}
+    },
+    "cws": {
+        "cws1": {"team1": "Seed1", "team2": "Team4", "team3": "Team3", "team4": "Team2", "winner": "", "runner_up": ""},
+        "cws2": {"team1": "Seed2", "team2": "Team4", "team3": "Team3", "team4": "Team2", "winner": "", "runner_up": ""}
+      },
+    "finals": {
+        "team1": "", "team2": "", "winner": ""
+      }
+}
+  
