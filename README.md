@@ -3,7 +3,7 @@
 
 Join our NCAA Baseball Tournament Challenge and sharpen your coding skills at the same time! Whether you're a newbie or a seasoned veteran, follow these steps to submit your bracket predictions.
 
-### Follow the instructions below to participate, or check out video instructions here: https://www.youtube.com/playlist?list=PLAGij-fctciAzGklzjKztZd7MEZLlp6_v
+### Follow the instructions below to participate
 
 ## Step 1: Fork the Repository
 At the top-right corner of the page, click the Fork button. This creates a copy of the repository in your GitHub account.
