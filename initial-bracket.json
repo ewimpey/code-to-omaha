@@ -28,8 +28,8 @@
       "super8": {"team1": "", "team2": "", "winner": ""}
     },
     "cws": {
-        "cws1": {"team1": "Seed1", "team2": "Team4", "team3": "Team3", "team4": "Team2", "winner": "", "runner_up": ""},
-        "cws2": {"team1": "Seed2", "team2": "Team4", "team3": "Team3", "team4": "Team2", "winner": "", "runner_up": ""}
+        "cws1": {"team1": "", "team2": "", "team3": "", "team4": "", "winner": "", "runner_up": ""},
+        "cws2": {"team1": "", "team2": "", "team3": "", "team4": "", "winner": "", "runner_up": ""}
       },
     "finals": {
         "team1": "", "team2": "", "winner": ""
