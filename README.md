@@ -35,7 +35,7 @@ After you've filled out your bracket, it's time to commit your changes:
 
 Add the modified bracket.json file:
 ```sh
-git add [username]-submission.json
+git add submission/[username]-submission.json
 ```
 Commit your changes with a meaningful message:
 ```sh
