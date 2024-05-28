@@ -23,7 +23,7 @@ cd code-to-omaha
 
 ## Step 3: Fill Out Your Bracket
 
-Fill out the bracket by running `fill_bracket.py`.
+Fill out the bracket by running `python fill-bracket.py`.
 This will first prompt you for your GitHub username.
 
 Then you'll be promptedto provide the winner and runner-up for each round. 
