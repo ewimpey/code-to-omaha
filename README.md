@@ -46,7 +46,7 @@ git commit -m "Submitting <your-github-username> bracket"
 Push your submission to your remote repository.
 
 ```sh
-git push origin master
+git push origin main
 ```
 
 ## Step 6: Submit a Pull Request
