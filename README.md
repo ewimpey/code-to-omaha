@@ -65,5 +65,13 @@ Next Steps:
 * Watch the repository for updates, including the leaderboard and game results.
 * Feel free to discuss predictions, strategies, and Git tips in the Issues section!
 
+Scoring Details:
+1 point for regional runner-up
+2 points for regional winner
+4 points for super regional winner
+8 points for CWS pool runner-up
+12 points for CWS pool champ
+16 points for Champion
+Tiebreaker - total number of upsets picked
 
 ## Thank you for participating, and may the best bracket win!
