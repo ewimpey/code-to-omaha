@@ -1,4 +1,5 @@
 import json
+import os
 
 def prompt_user_for_winner(prompt, options):
     while True:
@@ -52,9 +53,9 @@ def fill_super_regionals(super_regionals, regionals):
 def fill_cws(cws, super_regionals):
     bracket1_teams = []
     bracket2_teams = []
-    for i in range(1, 5):
+    for i in [1,4,5,8]:
         bracket1_teams.append(super_regionals[f"super{i}"]["winner"])
-    for i in range(5, 9):
+    for i in [2,3,6,7]:
         bracket2_teams.append(super_regionals[f"super{i}"]["winner"])
     
     cws["cws1"]["team1"], cws["cws1"]["team2"], cws["cws1"]["team3"], cws["cws1"]["team4"] = bracket1_teams
@@ -87,7 +88,14 @@ def main():
     fill_finals(bracket["finals"], bracket["cws"])
 
     output_filename = f"{username}-submission.json"
-    with open(output_filename, 'w') as f:
+
+    
+    # Save the submission in the 'submission' folder
+    submission_folder = 'submission'
+    os.makedirs(submission_folder, exist_ok=True)
+    file_path = os.path.join(submission_folder, output_filename)
+
+    with open(file_path, 'w') as f:
         json.dump(bracket, f, indent=4)
 
     print(f"Bracket has been filled and saved to {output_filename}")

@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - '*-submission.json'
+      - 'submission/*-submission.json'
 
 jobs:
   validate:
@@ -25,6 +25,6 @@ jobs:
 
       - name: Validate bracket
         run: |
-          for file in $(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '\-submission\.json$'); do
+          for file in $(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E 'submission/\-submission\.json$'); do
             python validate_bracket.py $file || exit 1
           done
