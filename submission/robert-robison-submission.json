@@ -185,13 +185,13 @@
             "team2": "Texas A&M",
             "team3": "Clemson",
             "team4": "Georgia",
-            "winner": "Kentucky",
-            "runner_up": "Texas A&M"
+            "winner": "Texas A&M",
+            "runner_up": "Kentucky"
         }
     },
     "finals": {
         "team1": "Tennessee",
-        "team2": "Kentucky",
+        "team2": "Texas A&M",
         "winner": "Tennessee"
     }
 }
