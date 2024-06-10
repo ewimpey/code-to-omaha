@@ -133,32 +133,32 @@
         "super1": {
             "team1": "Tennessee",
             "team2": "Evansville",
-            "winner": ""
+            "winner": "Tennessee"
         },
         "super2": {
             "team1": "Kentucky",
             "team2": "Oregon State",
-            "winner": ""
+            "winner": "Kentucky"
         },
         "super3": {
             "team1": "Texas A&M",
             "team2": "Oregon",
-            "winner": ""
+            "winner": "Texas A&M"
         },
         "super4": {
             "team1": "UNC",
             "team2": "West Virginia",
-            "winner": ""
+            "winner": "UNC"
         },
         "super5": {
             "team1": "Kansas State",
             "team2": "Virginia",
-            "winner": ""
+            "winner": "Virginia"
         },
         "super6": {
             "team1": "Clemson",
             "team2": "Florida",
-            "winner": ""
+            "winner": "Florida"
         },
         "super7": {
             "team1": "Georgia",
@@ -168,7 +168,7 @@
         "super8": {
             "team1": "Florida State",
             "team2": "UConn",
-            "winner": ""
+            "winner": "Florida State"
         }
     },
     "cws": {
