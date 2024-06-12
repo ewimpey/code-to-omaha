@@ -163,7 +163,7 @@
         "super7": {
             "team1": "Georgia",
             "team2": "NC State",
-            "winner": ""
+            "winner": "NC State"
         },
         "super8": {
             "team1": "Florida State",
@@ -173,18 +173,18 @@
     },
     "cws": {
         "cws1": {
-            "team1": "",
-            "team2": "",
-            "team3": "",
-            "team4": "",
+            "team1": "Tennessee",
+            "team2": "UNC",
+            "team3": "Virginia",
+            "team4": "Florida State",
             "winner": "",
             "runner_up": ""
         },
         "cws2": {
-            "team1": "",
-            "team2": "",
-            "team3": "",
-            "team4": "",
+            "team1": "Kentucky",
+            "team2": "Texas A&M",
+            "team3": "Florida",
+            "team4": "NC State",
             "winner": "",
             "runner_up": ""
         }
