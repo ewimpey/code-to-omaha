@@ -177,21 +177,21 @@
             "team2": "UNC",
             "team3": "Virginia",
             "team4": "Florida State",
-            "winner": "",
-            "runner_up": ""
+            "winner": "Tennessee",
+            "runner_up": "Florida State"
         },
         "cws2": {
             "team1": "Kentucky",
             "team2": "Texas A&M",
             "team3": "Florida",
             "team4": "NC State",
-            "winner": "",
-            "runner_up": ""
+            "winner": "Texas A&M",
+            "runner_up": "Florida"
         }
     },
     "finals": {
-        "team1": "",
-        "team2": "",
-        "winner": ""
+        "team1": "Tennessee",
+        "team2": "Texas A&M",
+        "winner": "Tennessee"
     }
 }
