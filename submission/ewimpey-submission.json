@@ -1,0 +1,197 @@
+{
+    "regionals": {
+        "regional1": {
+            "team1": "UCLA",
+            "team2": "Virginia Tech",
+            "team3": "Cal Poly",
+            "team4": "Saint Mary's",
+            "winner": "UCLA",
+            "runner_up": "Cal Poly"
+        },
+        "regional2": {
+            "team1": "Georgia Tech",
+            "team2": "Oklahoma",
+            "team3": "The Citadel",
+            "team4": "Illinois-Chicago",
+            "winner": "Georgia Tech",
+            "runner_up": "The Citadel"
+        },
+        "regional3": {
+            "team1": "Georgia",
+            "team2": "Boston College",
+            "team3": "Liberty",
+            "team4": "Long Island",
+            "winner": "Liberty",
+            "runner_up": "Boston College"
+        },
+        "regional4": {
+            "team1": "Auburn",
+            "team2": "UCF",
+            "team3": "NC State",
+            "team4": "Milwaukee",
+            "winner": "UCF",
+            "runner_up": "NC State"
+        },
+        "regional5": {
+            "team1": "North Carolina",
+            "team2": "Tennessee",
+            "team3": "East Carolina",
+            "team4": "VCU",
+            "winner": "North Carolina",
+            "runner_up": "Tennessee"
+        },
+        "regional6": {
+            "team1": "Texas",
+            "team2": "UC Santa Barbara",
+            "team3": "Tarleton",
+            "team4": "Holy Cross",
+            "winner": "Texas",
+            "runner_up": "UC Santa Barbara"
+        },
+        "regional7": {
+            "team1": "Alabama",
+            "team2": "Oklahoma State",
+            "team3": "USC Upstate",
+            "team4": "Alabama State",
+            "winner": "Oklahoma State",
+            "runner_up": "Alabama"
+        },
+        "regional8": {
+            "team1": "Florida",
+            "team2": "Miami",
+            "team3": "Troy",
+            "team4": "Rider",
+            "winner": "Florida",
+            "runner_up": "Troy"
+        },
+        "regional9": {
+            "team1": "Southern Miss",
+            "team2": "Virginia",
+            "team3": "Jacksonville State",
+            "team4": "Little Rock",
+            "winner": "Southern Miss",
+            "runner_up": "Jacksonville State"
+        },
+        "regional10": {
+            "team1": "Florida State",
+            "team2": "Coastal Carolina",
+            "team3": "Northern Illinois",
+            "team4": "St. John's",
+            "winner": "Florida State",
+            "runner_up": "Coastal Carolina"
+        },
+        "regional11": {
+            "team1": "Oregon",
+            "team2": "Oregon State",
+            "team3": "Washington State",
+            "team4": "Yale",
+            "winner": "Oregon",
+            "runner_up": "Oregon State"
+        },
+        "regional12": {
+            "team1": "Texas A&M",
+            "team2": "Southern California",
+            "team3": "Texas State",
+            "team4": "Lamar",
+            "winner": "Texas A&M",
+            "runner_up": "Southern California"
+        },
+        "regional13": {
+            "team1": "Nebraska",
+            "team2": "Ole Miss",
+            "team3": "Arizona State",
+            "team4": "South Dakota State",
+            "winner": "Nebraska",
+            "runner_up": "Arizona State"
+        },
+        "regional14": {
+            "team1": "Mississippi State",
+            "team2": "Cincinnati",
+            "team3": "Louisiana",
+            "team4": "Lipscomb",
+            "winner": "Mississippi State",
+            "runner_up": "Louisiana"
+        },
+        "regional15": {
+            "team1": "Kansas",
+            "team2": "Arkansas",
+            "team3": "Missouri State",
+            "team4": "Northeastern",
+            "winner": "Arkansas",
+            "runner_up": "Kansas"
+        },
+        "regional16": {
+            "team1": "West Virginia",
+            "team2": "Wake Forest",
+            "team3": "Kentucky",
+            "team4": "Binghamton",
+            "winner": "Wake Forest",
+            "runner_up": "West Virginia"
+        }
+    },
+    "supers": {
+        "super1": {
+            "team1": "UCLA",
+            "team2": "Wake Forest",
+            "winner": "UCLA"
+        },
+        "super2": {
+            "team1": "Georgia Tech",
+            "team2": "Arkansas",
+            "winner": "Georgia Tech"
+        },
+        "super3": {
+            "team1": "Liberty",
+            "team2": "Mississippi State",
+            "winner": "Mississippi State"
+        },
+        "super4": {
+            "team1": "UCF",
+            "team2": "Nebraska",
+            "winner": "Nebraska"
+        },
+        "super5": {
+            "team1": "North Carolina",
+            "team2": "Texas A&M",
+            "winner": "Texas A&M"
+        },
+        "super6": {
+            "team1": "Texas",
+            "team2": "Oregon",
+            "winner": "Oregon"
+        },
+        "super7": {
+            "team1": "Oklahoma State",
+            "team2": "Florida State",
+            "winner": "Florida State"
+        },
+        "super8": {
+            "team1": "Florida",
+            "team2": "Southern Miss",
+            "winner": "Florida"
+        }
+    },
+    "cws": {
+        "cws1": {
+            "team1": "UCLA",
+            "team2": "Nebraska",
+            "team3": "Texas A&M",
+            "team4": "Florida",
+            "winner": "UCLA",
+            "runner_up": "Florida"
+        },
+        "cws2": {
+            "team1": "Georgia Tech",
+            "team2": "Mississippi State",
+            "team3": "Oregon",
+            "team4": "Florida State",
+            "winner": "Georgia Tech",
+            "runner_up": "Mississippi State"
+        }
+    },
+    "finals": {
+        "team1": "UCLA",
+        "team2": "Georgia Tech",
+        "winner": "Georgia Tech"
+    }
+}
