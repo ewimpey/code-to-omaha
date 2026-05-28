@@ -1,4 +1,4 @@
-# ~Road~ Code to Omaha 25!
+# ~Road~ Code to Omaha 26!
 ![Code to Omaha!](/helpers/code-to-omaha.png)
 
 Join our NCAA Baseball Tournament Challenge and sharpen your coding skills at the same time! Whether you're a newbie or a seasoned veteran, follow these steps to submit your bracket predictions.
